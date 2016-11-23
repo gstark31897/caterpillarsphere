@@ -1,0 +1,7 @@
+[package]
+name = "caterpillarsphere"
+version = "0.1.0"
+authors = ["octalus"]
+
+[dependencies]
+octengine = { path = "../octengine" }
